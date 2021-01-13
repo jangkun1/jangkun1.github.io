@@ -2,7 +2,7 @@
 title: JunHitec
 layout: home
 description: JunHitec creates technology that moves businesses years ahead of competitors.
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/main.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
